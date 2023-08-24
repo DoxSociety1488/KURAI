@@ -1,0 +1,7 @@
+colorama
+Faker
+progress
+phonenumbers
+requests
+beautifulsoup4
+progressbar
